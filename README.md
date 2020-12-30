@@ -1,4 +1,4 @@
-# Design-Science-Research
+# Design Science Research
 This repository is part of the paper "Entwicklung und Anwendung der Design Science Research innerhalb der deutschsprachigen Wirtschaftsinformatik: Eine Literaturanalyse", which was written by Benjamin Zenth, Fabian Sauer and Majeed Malik in the context of a seminar paper at Heilbronn University and contains the data used as well as the jupyter notebook.
 
 # License
